@@ -27,11 +27,30 @@
 ## Khan Academy (free, official SAT prep)
 - Link: https://www.khanacademy.org/test-prep/sat
 - Quick linking steps:
-  1. Sign in to Khan Academy (or create an account).
-  2. Go to your profile/Settings → "Link accounts" and follow prompts to connect your College Board account.
-  3. Once linked, Khan Academy will import your scores and produce a personalized practice plan.
+   1. Sign in to Khan Academy (or create an account).
+   2. Go to your profile/Settings → "Link accounts" and follow prompts to connect your College Board account.
+   3. Once linked, Khan Academy will import your scores and produce a personalized practice plan.
+
+## Recommended Third-Party Resources
+
+- The Princeton Review — SAT Premium (2025 or 2026 editions)
+   - Recommended use: content review, targeted practice drills, and additional full-length practice tests included with the book or via an access code.
+   - Where to get it: major retailers (Amazon, Barnes & Noble) or the publisher's site at https://www.princetonreview.com. Search for "SAT Premium 2025" or "SAT Premium 2026" to match the edition you prefer.
+   - Notes: Good supplemental material; prioritize official College Board tests for final score calibration.
+
+- Erica L. Meltzer — The Critical Reader / Ultimate Guide to SAT Reading & Writing
+   - Recommended use: focused Reading & Writing strategy and intensive grammar drilling.
+
+- PWN the SAT / PWNtheSats (math-focused guides)
+   - Recommended use: deep conceptual math review and high-difficulty problem practice.
+
+- UWorld (SAT) — subscription practice bank
+   - Recommended use: high-quality, exam-style practice with analytics and strong explanations.
+
+- Dr. John Chung — Advanced SAT Math practice books
+   - Recommended use: supplemental advanced math practice for top scorers.
 
 ## Notes / Actions
 - Suggested local folder for downloaded materials: /Users/kerry/Documents/Use/Self-study/SAT/practice_tests
-- Ask me if you want me to download the official PDFs and save them to the folder above.
-- If you want, I can also add direct Bluebook App Store / Play Store links (I can fetch them on request).
+- If you want, I can help locate specific edition ISBNs or purchase links for the Princeton Review edition you prefer.
+- I can also add direct Bluebook App Store / Play Store links (I can fetch them on request).
